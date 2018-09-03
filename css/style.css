@@ -42,6 +42,12 @@ header {
 .press_box {
 	float: left;
 	border: 5px solid #cfcfcf;
+	width: 24.25%;
+	margin-left: 1%;
+}
+
+.first {
+	margin-left: 0;
 }
 
 
