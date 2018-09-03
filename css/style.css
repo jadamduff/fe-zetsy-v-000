@@ -22,8 +22,12 @@ body {
 header {
 	border-bottom: 1px solid #e2e2e2;
 	font: Normal 50px 'Baskerville', Serif;
-	color: #9baba5;
+	color: #9caba5;
 	padding: 10px 0;
+}
+
+#necklace {
+	border: 5px solid #9caba5;
 }
 
 /* Write all remaining styles here */
