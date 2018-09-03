@@ -53,6 +53,7 @@ header {
 	border: 5px solid #cfcfcf;
 	width: 24.25%;
 	margin-left: 1%;
+	box-sizing: border-box;
 }
 
 .first {
