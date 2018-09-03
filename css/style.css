@@ -58,7 +58,8 @@ header {
 }
 
 .press_box:hover {
-	border: 5px solid #717f7a
+	border: 5px solid #717f7a;
+	cursor: pointer;
 }
 
 .first {
